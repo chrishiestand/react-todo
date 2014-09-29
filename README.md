@@ -1,4 +1,9 @@
-react-todo
-==========
+# A React-driven TODO list
 
-Exploring react with a simplistic TODO app
+Simply experimenting with react.js
+
+## Getting Started
+
+    python -m SimpleHTTPServer
+
+Then nagivagate to localhost:8000

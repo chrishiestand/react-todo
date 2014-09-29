@@ -1,0 +1,24 @@
+.todoList {
+    width: 10em;
+}
+.todoItem span {
+    clear: right;
+}
+.todoItem input[type="checkbox"] {
+    float: right;
+    clear: left;
+}
+
+.todoApp {
+    margin: 2em;
+    margin-top: 5em;
+}
+
+.badge {
+    margin-left: 1em;
+    vertical-align: middle;
+}
+
+.done {
+    text-decoration: line-through;
+}
